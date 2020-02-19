@@ -1,5 +1,6 @@
 # KLDR-API
 API udostępnia dane Kalendarza Liturgicznego Diecezji Radomskiej w postaci JSON.
+Zapis formatu daty według [funkcji **date**](https://www.php.net/manual/en/function.date.php).
 
 ## Informacje o dniu
 Aby pobrać informacje o dniu dzisiejszym:
